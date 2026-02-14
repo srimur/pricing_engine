@@ -1,6 +1,6 @@
 # Multi-Model Volatility Surface Calibration & Exotic Option Pricing Engine
 
-A comprehensive quantitative finance pricing library built in Python that calibrates multiple stochastic models (Black-Scholes, Heston, Variance Gamma) to market options data using FFT-based pricing and numerical optimization, constructs implied volatility surfaces, prices exotic derivatives via Monte Carlo, and models interest rates using short-rate models.
+A comprehensive pricing library built in Python that calibrates multiple stochastic models (Black-Scholes, Heston, Variance Gamma) to market options data using FFT-based pricing and numerical optimization, constructs implied volatility surfaces, prices exotic derivatives via Monte Carlo, and models interest rates using short-rate models.
 
 **Built as a capstone project applying concepts from Columbia University's *Computational Methods in Pricing and Model Calibration* course.**
 
