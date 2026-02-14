@@ -1,14 +1,6 @@
 """
-Interest Rate Models
+Interest Rate Model
 =====================
-Module 5 of the project: short-rate modelling and yield curve construction.
-
-Covers:
-    - Yield curve bootstrapping from swap rates
-    - Vasicek model: dr = κ(θ-r)dt + σdW
-    - CIR model:    dr = κ(θ-r)dt + σ√r·dW
-    - Zero-coupon bond pricing under both models
-    - Model calibration via MLE / regression
 """
 
 import numpy as np
